@@ -24,3 +24,7 @@ State management using LangGraph
 Integration with external tools / APIs
 Modular and extensible architecture
 LLM-powered decision making
+
+# 📄 License
+
+This project is for educational purposes under SDAIA training.
